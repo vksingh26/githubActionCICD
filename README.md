@@ -25,3 +25,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ### implemented CI/CD using firebase
+ Added ci cd using github action with firebase
